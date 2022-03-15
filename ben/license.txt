@@ -1,0 +1,11 @@
+Model Information:
+* title:	Talking Ben
+* source:	https://sketchfab.com/3d-models/talking-ben-b497ce44e6234084857b20fd1ed8a3f6
+* author:	453867682 (https://sketchfab.com/453867682)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Talking Ben" (https://sketchfab.com/3d-models/talking-ben-b497ce44e6234084857b20fd1ed8a3f6) by 453867682 (https://sketchfab.com/453867682) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
